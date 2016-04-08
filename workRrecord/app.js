@@ -1,10 +1,10 @@
 var work = require('./view/timetranck.js');
 
 var db = require('mysql').createConnection({
-	host: '120.76.165.85',
-	user: 'bill',
-	password: 'Laizhibin_066',
-	database: 'project_test'
+	host: '',
+	user: '',
+	password: '',
+	database: ''
 });
 
 
